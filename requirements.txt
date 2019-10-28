@@ -1,0 +1,5 @@
+robotframework==3.1.2
+robotframework-faker==4.2.0
+robotframework-selenium2library==3.0.0
+robotframework-seleniumlibrary==4.1.0
+robotframeworklexer==1.1
